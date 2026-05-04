@@ -9,6 +9,11 @@ Unreleased section should follow [Release Toolkit](https://github.com/newrelic/r
 
 ## Unreleased
 
+## v3.3.26 - 2026-05-04
+
+### ⛓️ Dependencies
+- Updated newrelic/infrastructure to v1.74.2 - [Changelog 🔗](https://github.com/newrelic/infrastructure-agent/releases/tag/1.74.2)
+
 ## v3.3.25 - 2026-04-30
 
 ### ⛓️ Dependencies
